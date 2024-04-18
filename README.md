@@ -1,4 +1,4 @@
-# Taller1_Destinos
+# Taller 2
 
 ## Integrantes
 
